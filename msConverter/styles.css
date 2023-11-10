@@ -1,0 +1,30 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+    margin-top: 270px;
+    margin-left: 500px;
+    border: 2px solid black;
+    width: 200px;
+    background-image: url('./real\ estate.webp'); /* Replace 'background.jpg' with the path to your image file */
+    background-size: cover;
+
+}
+
+#converter {
+    max-width: 400px;
+    margin: 0 auto;
+   text-decoration: underline red;
+ background: white;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    
+}
+.label{
+   text-decoration: underline orange;
+ background: white;
+}

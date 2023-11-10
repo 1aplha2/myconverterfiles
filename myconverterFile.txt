@@ -1,0 +1,10 @@
+this is some text.
+ 
+ git add *
+ git config --global user.name="1alpha2"
+ git config --global user.email=ahsanbukhariahsanshahn@gmail.com"
+ git commit -m "mycfile"
+ git push
+
+
+ 

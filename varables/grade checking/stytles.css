@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 450px;
+    
+    width: 200px;
+    border: 2px solid black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('./abcd.webp'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+      
+  }
+  .container{
+    background-color: white;
+  }
+  h1{
+    text-decoration: underline red;
+    color: black;
+  }
+  h3{
+    text-decoration: underline orange;
+    color: black;
+  }
+
+  #gradeInput {
+    margin: 20px;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  #result {
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+    margin-top: 10px;
+  }

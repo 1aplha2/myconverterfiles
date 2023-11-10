@@ -1,0 +1,10 @@
+javascript programming fundamental (ES6)
+==============================================================
+
+Variables                (Boolean,number,string,Array,Objects)
+Math operators           (+  -  *  /  % -- ++)
+Conditional statements   (If else,ternary operators)
+Comparison operators     (===  !==  <  > <=  >==)
+Logical operators        (&& II !)
+loop statements          (For loop,map)
+ES6 functions
